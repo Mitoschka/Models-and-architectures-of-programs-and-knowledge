@@ -33,6 +33,7 @@
 3. [`R2 Score`](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 ### Результат
-В ходе работы было доказано 2 гипотезы:
+В ходе работы было доказано 3 гипотезы:
 1. Была опровергнута гипотеза о равенстве средних значений по критерию [`Флингера-Килина`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.fligner.html) в отоношении наличия метро на ценообразование новостроек.
 2. Шкала Чеддока для определения силы кореляции цены и жилой площади по [`Пирсону`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html) показала заметную корреляцию между этими параметрами. 
+3. Номер этажа не влияет на ценообразование.
