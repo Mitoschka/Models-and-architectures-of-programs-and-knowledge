@@ -5,6 +5,7 @@
 ## Содержание
 1. [`Эйрих_Финальный_проект.ipynb`](https://github.com/Michael-200/Models-and-architectures-of-programs-and-knowledge/blob/main/%D0%AD%D0%B9%D1%80%D0%B8%D1%85_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb) содержит код реализации задачи.
 2. [`apartment.csv`](https://github.com/Michael-200/Models-and-architectures-of-programs-and-knowledge/blob/main/apartment.csv) содержит предобработанные данные.
+3. [`Эйрих_Финальный_проект.pdf`](https://github.com/Michael-200/Models-and-architectures-of-programs-and-knowledge/blob/main/%D0%AD%D0%B9%D1%80%D0%B8%D1%85_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf) содержит презентацию.
 ### Данные
 * `Type` - содержит информацию о типе квартиры `int`. Где:
   - 0 = студия
